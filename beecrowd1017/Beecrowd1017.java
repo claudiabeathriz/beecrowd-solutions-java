@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Beecrowd1017 {
     public static void main(String[] args) {
 

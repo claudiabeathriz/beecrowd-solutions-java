@@ -10,7 +10,18 @@ public class Beecrowd1038 {
 
         int X = scanner.nextInt();
         int Y = scanner.nextInt();
-        double total = 0;
+
+        //enhanced switch        
+        double total = switch (X) {
+            case 1 -> 4 * Y;
+            case 2 -> 4.5 * Y;
+            case 3 -> 5 * Y;
+            case 4 -> 2 * Y;
+            case 5 -> 1.50 * Y;
+            default -> 0;
+        };
+        
+        /* double total = 0;
 
         switch(X){
             case 1:
@@ -29,7 +40,7 @@ public class Beecrowd1038 {
                 total = 1.50 * Y;
                 break;
         }
-
+*/
         System.out.printf("Total: R$ %.2f\n" , total);
 
     }

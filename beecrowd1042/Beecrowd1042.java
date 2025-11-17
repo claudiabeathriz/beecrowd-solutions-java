@@ -24,7 +24,8 @@ public class Beecrowd1042 {
         // manual array copy; creates a copy of the original array (asRead)
         // so we can print it in the same order as user entered
         // (before sorting, otherwise both arrays would be sorted)
-        // alt: asRead = Arrays.copyOf(numbers, numbers.length);
+        // alt: 
+        // asRead = Arrays.copyOf(numbers, numbers.length);
 
         Arrays.sort(numbers);
 

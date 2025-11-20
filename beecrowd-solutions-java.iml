@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1000" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1001" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1002" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1003" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1004" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1005" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1006" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1007" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1008" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1009" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1010" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1011" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1012" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1013" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1014" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1015" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1016" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1017" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1018" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1019" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1020" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1021" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1035" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1036" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1037" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1038" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1040" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1041" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1042" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1043" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1044" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1045" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1051" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1067" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1070" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/beecrowd1046" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

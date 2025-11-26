@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Beecrowd1051again {
+public class Beecrowd1051 {
 
     public static void main(String[] args){
 

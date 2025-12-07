@@ -4,6 +4,7 @@ public class Beecrowd1067 {
     public static void main(String[] args) {
 
         //odd numbers
+
         int x;
         Scanner scanner = new Scanner(System.in);
         x = scanner.nextInt();

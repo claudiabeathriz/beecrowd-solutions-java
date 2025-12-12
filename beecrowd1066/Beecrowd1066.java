@@ -23,10 +23,10 @@ public class Beecrowd1066 {
         scanner.close();
 
         // print each array index
-        System.out.println(results[0] + " valores par(es)");
-        System.out.println(results[1] + " valores impar(es)");
-        System.out.println(results[2] + " valores positivo(s)");
-        System.out.println(results[3] + " valores negativo(s)");
+        System.out.println(results[0] + " valor(es) par(es)");
+        System.out.println(results[1] + " valor(es) impar(es)");
+        System.out.println(results[2] + " valor(es) positivo(s)");
+        System.out.println(results[3] + " valor(es) negativo(s)");
 
     }
     public static int[] countNumbers(int[] numbers) {

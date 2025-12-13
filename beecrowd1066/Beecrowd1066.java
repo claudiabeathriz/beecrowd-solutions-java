@@ -14,7 +14,7 @@ public class Beecrowd1066 {
         for(int i = 0; i < numbers.length; i++){
             numbers[i] = scanner.nextInt();
         }
-        // there is no need to create a method for this, BUT if i wanted to, how would i do it?
+        // there is no need to create a method for this, BUT if I wanted to, how would i do it?
 
         scanner.close();
 

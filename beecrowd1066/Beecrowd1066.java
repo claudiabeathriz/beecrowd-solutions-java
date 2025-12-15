@@ -14,7 +14,6 @@ public class Beecrowd1066 {
         for(int i = 0; i < numbers.length; i++){
             numbers[i] = scanner.nextInt();
         }
-        // there is no need to create a method for this, BUT if I wanted to, how would i do it?
 
         scanner.close();
 
@@ -50,6 +49,6 @@ public class Beecrowd1066 {
         }
 
         return new int[]{even, odd, positive, negative};
-        // error = return even,odd, positive, negative;
+        // previous error = return even,odd, positive, negative;
     }
 }

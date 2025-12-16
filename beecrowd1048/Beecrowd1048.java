@@ -10,8 +10,9 @@ public class Beecrowd1048 {
         Scanner scanner = new Scanner(System.in);
 
         double salary = scanner.nextDouble();
-        DecimalFormat format = new DecimalFormat("#.##");
-        salary = Double.valueOf(format.format(salary));
+        // DecimalFormat format = new DecimalFormat("#.##");
+        // salary = Double.valueOf(format.format(salary));
+        // previous error: never format values before calculating; only format them when printing
 
         double newSalary = calcNewSalary(salary);
         double moneyEarned = calcMoneyEarned(salary, newSalary);
@@ -30,13 +31,13 @@ public class Beecrowd1048 {
 
         if(salary <= 400){
             newSalary = salary + (0.15 * salary);
-        } else if (salary >= 400.01 && salary <= 800.00) {
+        } else if (salary <= 800) {
             newSalary = salary + (0.12 * salary);
         }
-        else if (salary >= 800.01 && salary <= 1200.00) {
+        else if (salary <= 1200) {
             newSalary = salary + (0.10 * salary);
         }
-        else if (salary >= 1200.01 && salary <= 2000.00) {
+        else if (salary <= 2000.00) {
             newSalary = salary + (0.07 * salary);
         }
         else if (salary > 2000.01) {

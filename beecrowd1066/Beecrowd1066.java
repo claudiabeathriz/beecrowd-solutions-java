@@ -49,6 +49,6 @@ public class Beecrowd1066 {
         }
 
         return new int[]{even, odd, positive, negative};
-        // previous error = return even,odd, positive, negative;
+        // previous error = return even, odd, positive, negative;
     }
 }

@@ -52,6 +52,7 @@
       <sourceFolder url="file://$MODULE_DIR$/beecrowd1066" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/beecrowd1071" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/beecrowd1072" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beecrowd1073" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/beecrowd1046" />
     </content>
     <orderEntry type="inheritedJdk" />
